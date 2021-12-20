@@ -25,7 +25,7 @@ Linux 를 사용하여 사진을 분석하기위해 Rudolfu 라는 폴더를 만
 
 binwalk를 통해 zip 파일을 확인 foremost 를 사용하여 데이터 복구를 했다
 
-````
+```
 center@kali:~/Desktop/Rudolfu/output$
 center@kali:~/Desktop/Rudolfu/output$ ls
 center@kali:~/Desktop/Rudolfu/output$
@@ -48,6 +48,7 @@ Archive:  00000228.zip
     center@kali:~/Desktop/Rudolfu/output/zip/Rudolfu$ unzip  name.zip
     Archive:  name.zip
     [name.zip] name.txt password:
+    
     ```
    
    <hr1>

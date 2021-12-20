@@ -12,7 +12,6 @@
 # Write up
 
 When I checked through the binwalk command, I could see that there was a pdf.txt file.
-<img width="1158" alt="Screen Shot 2021-09-29 at 2 27 03 PM" src="https://user-images.githubusercontent.com/90122834/146719401-9ebe6304-9a6d-443a-94da-0c260aa8be9a.png")
-">
+<img width="1158" alt="Screen Shot 2021-09-29 at 2 27 03 PM" src="https://user-images.githubusercontent.com/90122834/146719401-9ebe6304-9a6d-443a-94da-0c260aa8be9a.png">
 
 

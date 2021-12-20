@@ -6,11 +6,18 @@
 
 # Write up
 
-santa girl friend 문제에 관한 사진이다
+santa girl friend 문제에 관한 설명이다
 
-<img width="500" src="https://user-images.githubusercontent.com/90122834/146719401-9ebe6304-9a6d-443a-94da-0c260aa8be9a.png">
+```
+산타가 자신의 여자친구 사진을 보여줬어요!
 
+그녀는 과연 누구일까요?
+
+공백은 _로 표시해주세요
 다운 받은 사진이다
+
+1.jpg
+```
 
 <img width="500" src="https://user-images.githubusercontent.com/90122834/146721789-5708c0ca-3aae-4b90-bf2b-ece5c8529386.png">
 

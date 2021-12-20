@@ -6,9 +6,21 @@
 
 # Write up
 
-What is Santa's boots size? 문제에 관한 사진이다
+What is Santa's boots size? 문제에 관한 설명이다
 
-<img width="500" src="https://user-images.githubusercontent.com/90122834/146724283-f3a3f7cf-5b39-40cd-9b06-15816bc693e0.png">
+```
+산타가 신발을 주문하려고 하는데 사이즈 기억이 안난대요!!
+
+신발의 이름과 사이즈를 찾아주세요
+
+사이즈는 밑에서 3번째꺼를 전부 적어주세요.
+
+(공백은 _로 표시해주세요)
+
+플래그 형식 Christmas{신발이름_사이즈값}
+
+4.jpg
+```
 
 다운 받은 사진이다
 

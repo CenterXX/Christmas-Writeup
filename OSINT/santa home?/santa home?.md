@@ -6,9 +6,15 @@
 
 # Write up
 
-santa home? 문제에 관한 사진이다
+santa home? 문제에 관한 설명이다
 
-<img width="500" src="https://user-images.githubusercontent.com/90122834/146722736-8b386ac8-2291-4d94-8b12-92dda68c454e.png">
+```
+산타의 집은 과연 어디일까요?
+
+공백은 _로 표시해주세요
+
+2.jpg
+```
 
 다운 받은 사진이다
 

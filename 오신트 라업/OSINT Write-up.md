@@ -21,7 +21,7 @@ santa girl friend 문제에 관한 사진이다
 
 구글에서 지원하는 이미지 찾기 기능을 통해 간단하게 똑같은 사진이 보이는 사이트를 찾을 수 있었다
 
-
+```https://gris-sehlita.blogspot.com/2017/12/quien-fue-la-esposa-de-santa-claus.html```
 
 
 

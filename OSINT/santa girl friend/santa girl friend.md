@@ -14,10 +14,10 @@ santa girl friend 문제에 관한 설명이다
 그녀는 과연 누구일까요?
 
 공백은 _로 표시해주세요
-다운 받은 사진이다
 
 1.jpg
 ```
+다운받은 사진이다
 
 <img width="500" src="https://user-images.githubusercontent.com/90122834/146721789-5708c0ca-3aae-4b90-bf2b-ece5c8529386.png">
 

@@ -20,7 +20,8 @@ What is Santa's boots size? 문제에 관한 사진이다
 
 사이트 내에서 사진속 부츠의 이름을 알수 있었고 옆에 사이즈를 볼수 있는 버튼이 있었다
 
-```US	EU	UK	CM
+```
+US	EU	UK	CM
 5	37.5	4.5	23
 5.5	38	5	23.5
 6	38.5	5.5	24
@@ -42,6 +43,7 @@ What is Santa's boots size? 문제에 관한 사진이다
 16	50.5	15	32
 17	51.5	16	32.5
 18	52.5	17	33
+````
 
 
 Flag:```Christmas{Katherine_Lee_Bates}```

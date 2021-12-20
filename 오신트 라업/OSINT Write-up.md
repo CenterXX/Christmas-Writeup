@@ -23,5 +23,9 @@ santa girl friend 문제에 관한 사진이다
 
 ```https://gris-sehlita.blogspot.com/2017/12/quien-fue-la-esposa-de-santa-claus.html```
 
+사이트 내에서 사진속 인물의 이름을 알수 있었다
+
+Flag:```Christmas{Katherine_Lee_Bates}```
+
 
 

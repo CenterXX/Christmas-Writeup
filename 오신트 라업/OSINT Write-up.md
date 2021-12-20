@@ -1,11 +1,6 @@
 # OSINT Write-up
 - Category : OSINT
 - santa girl friend
-- santa home?
-- how old is santa?
-- What is Santa's boots size?
-- Happy Birthday Santa!!!
-- Where does Santa buy
 
 <hr>
 

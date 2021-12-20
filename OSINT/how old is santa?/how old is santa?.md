@@ -6,9 +6,19 @@
 
 # Write up
 
-how old is santa? 문제에 관한 사진이다
+how old is santa? 문제에 관한 설명이다
 
-<img width="500" src="https://user-images.githubusercontent.com/90122834/146723214-40e88f9d-933f-49ef-b9ce-4d98e1ceb283.png">
+```
+우연히 산타의 사진을 주웠어요!!
+
+산타가 사진에 찍혔던 년도에 산타는 몇 살이었을까요???
+
+공백은 _로 표시해주세요
+
+플래그형식 Christmas{산타의 이름_나이}
+
+3.jpg
+```
 
 다운 받은 사진이다
 

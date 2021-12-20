@@ -17,7 +17,7 @@ santa girl friend 문제에 관한 사진이다
 
 다운 받은 사진이다
 
-<img width="500" src="https://user-images.githubusercontent.com/90122834/146720264-70e160ff-b651-4f91-a883-97e6b2bf4e92.JPG">
+<img width="500" src="https://user-images.githubusercontent.com/90122834/146720774-d85e450a-0996-4f73-aea4-24ebc1f7a51c.png">
 
 구글에서 지원하는 이미지 찾기 기능을 통해 간단하게 똑같은 사진이 보이는 사이트를 찾을 수 있었다
 

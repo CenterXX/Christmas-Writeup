@@ -24,7 +24,8 @@ Happy Birthday Santa!!! 문제에 관한 설명이다
 
 <img width="500" src="https://user-images.githubusercontent.com/90122834/146725553-3de2cc2b-68a6-4c52-a09d-d25eb6eed974.JPG">
 
-구글에서 지원하는 이미지 찾기 기능을 통해 간단하게 똑같은 사진이 보이는 사이트를 찾을 수 있었다
+구글에서 지원하는 이미지 찾기 기능을 통해서도 제공된 사진을 발견할 수 없었다
+=
 
 ```https://gris-sehlita.blogspot.com/2017/12/quien-fue-la-esposa-de-santa-claus.html```
 

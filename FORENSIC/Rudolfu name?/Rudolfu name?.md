@@ -47,7 +47,7 @@ Archive:  00000228.zip
     center@kali:~/Desktop/Rudolfu/output/zip/Rudolfu$ unzip  name.zip
     Archive:  name.zip
     [name.zip] name.txt password: 
-    ````
+    ```
     
  
     

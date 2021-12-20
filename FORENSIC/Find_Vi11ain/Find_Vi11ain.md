@@ -17,6 +17,8 @@ villain.jpg
  
  <img width="500" src="https://user-images.githubusercontent.com/90122834/146730219-711222ff-15fb-4405-8b71-41b8ec1f07fa.jpg">
  
- 사이트는 ```https://www.dcode.fr/vigenere-cipher```를 사용했다
-
-Flag:```Christmas{Hell0_FOrensic!!}```
+ ```
+ steg solve 툴을 사용하여 사진속 플래그를 찾을수 있다
+ https://github.com/eugenekolo/sec-tools/tree/master/stego/stegsolve/stegsolve
+ ```
+Flag:```Christmas{Green_Villa1n}```

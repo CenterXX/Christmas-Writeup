@@ -24,7 +24,7 @@ What is Santa's boots size? 문제에 관한 설명이다
 
 다운 받은 사진이다
 
-<img width="500" src="https://user-images.githubusercontent.com/90122834/146724365-44d214b8-72a4-4d09-862c-d17f6a8a1d25.JPG">
+<img width="300" src="https://user-images.githubusercontent.com/90122834/146724365-44d214b8-72a4-4d09-862c-d17f6a8a1d25.JPG">
 
 구글에서 지원하는 이미지 찾기 기능을 통해  똑같은 사진이 보이는 사이트를 찾을 수 있었다
 

@@ -48,7 +48,7 @@ Archive:  00000228.zip
     Archive:  name.zip
     [name.zip] name.txt password: 
     
-    
+ 패스워드 입력시 cat 명령어를 사용하여 플래그를 획득 할 수 있다   
  
     
 Flag:Christmas{Chir0sla}
